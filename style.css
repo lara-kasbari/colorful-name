@@ -1,0 +1,24 @@
+/* CSS files add styling rules to your content */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap');
+
+
+body{
+  background-color: yellow;
+  
+}
+.container {
+  font-size: 150px;
+  font-family: 'Bungee Outline', cursive;
+  text-align: center;
+}
+
+#A1 {
+  color: #fa448c;
+}
+
+#A2 {
+  color: #fa448c;
+}
+
